@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Assessment",
-    "slug": "Assessment",
+    "name": "assessment-app",
+    "slug": "assessment-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "updates": {
+      "useClassicUpdates": true
     }
   }
 }
